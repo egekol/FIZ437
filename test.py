@@ -49,3 +49,5 @@ for i,size in enumerate(sizes):
     acc = mean_squared_error(y_test,y_predicted)
     print("Accuracy %.3f"%(acc*100))
     plt.show()
+
+    ###selam
